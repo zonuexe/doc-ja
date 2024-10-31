@@ -104,7 +104,7 @@
        コマンドラインでのスクリプティング。PHPスクリプトは
        サーバーもブラウザも無しで動作させるようにすることも出来ます。
        この場合、PHPパーサだけが必要となります。このタイプは
-       <command>cron</cron>(Unix および macOS) やタスクスケジューラ(Windows)を使用して
+       <command>cron</command>(Unix および macOS) やタスクスケジューラ(Windows)を使用して
        一定間隔で スクリプトを実行したい場合や、ちょっとした文書処理を
        行うのに最適な方法です。<link linkend="features.commandline">
        コマンドラインでPHPを使う</link>の章に詳しい情報があります。
