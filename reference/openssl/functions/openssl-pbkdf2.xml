@@ -56,7 +56,7 @@
     <term><parameter>iterations</parameter></term>
     <listitem>
      <para>
-      イテレーションの回数。
+      反復回数。
       <link xlink:href="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-132.pdf">
       NIST は最低でも1000を推奨</link>しています。
       2023 年の時点で、OWASP は PBKDF2-HMAC-SHA256 に対して 600,000 回、
